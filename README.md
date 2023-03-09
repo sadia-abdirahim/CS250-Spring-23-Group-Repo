@@ -3,3 +3,4 @@
 
 Sadia Abdirahim
 Andressa Olindo Wu
+Trevor Thayer
