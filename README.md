@@ -5,4 +5,6 @@ Sadia Abdirahim
 Andressa Olindo Wu
 Trevor Thayer
 
+COMMIT 2:
 Sadia Abdirahim 
+Trevor Thayer
