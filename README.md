@@ -8,3 +8,4 @@ Trevor Thayer
 COMMIT 2:
 Sadia Abdirahim 
 Trevor Thayer
+Andressa Wu
